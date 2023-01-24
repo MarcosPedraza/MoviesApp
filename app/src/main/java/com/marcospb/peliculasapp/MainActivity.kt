@@ -10,6 +10,12 @@ import com.marcospb.peliculasapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 
+/**
+ * Main activity
+ *
+ * @constructor Create empty Main activity
+ */
+
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
